@@ -6,7 +6,7 @@ I am a self-taught developer and security researcher focused on low-level networ
 
 ### Technical Skillset
 
-* **Programming:** Python, C#, C++, C, JavaScript, HTML/CSS
+* **Programming:** Python, C#, C++, C, HTML/CSS
 * **Analysis Tools:** Ghidra, Cheat Engine (with DBVM/kernel debugging), Burp Suite, Nmap, Wireshark, Aircrack-ng, Kali Linux
 * **Focus Areas:** Binary protocol analysis, custom TCP/UDP socket programming, dynamic memory analysis, and web application security testing
 

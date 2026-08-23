@@ -1,14 +1,14 @@
 # Profile: Security Research & Software Development
 
-I am a self-taught developer and security researcher focused on low-level networking, code automation, and reverse engineering. I build software using Python, C#, C++, and JavaScript, and I use offensive security tools to analyze application logic and network protocols.
+I am a self-taught developer and security researcher focused on low-level networking, code automation, and reverse engineering. I build software using Python, C#, and C, I use offensive security tools to study and exploit application logic and network protocols (ethically of course).
 
 ---
 
 ### Technical Skillset
 
-* **Programming:** Python, C#, C++, C, HTML/CSS
+* **Programming:** Python, C#, C
 * **Analysis Tools:** Ghidra, Cheat Engine (with DBVM/kernel debugging), Burp Suite, Nmap, Wireshark, Aircrack-ng, Kali Linux
-* **Focus Areas:** Binary protocol analysis, custom TCP/UDP socket programming, dynamic memory analysis, and web application security testing
+* **Focus Areas:** Binary protocol analysis, custom TCP/UDP socket programming, dynamic memory analysis, web application security testing, and AppSec
 
 ---
 
@@ -16,11 +16,11 @@ I am a self-taught developer and security researcher focused on low-level networ
 
 * **Protocol Reverse Engineering:** Decrypted and mapped the custom binary TCP protocol of a major multiplayer online game to communicate directly with the server infrastructure.
 * **Network Infrastructure Auditing:** Identified critical architectural flaws in a network infrastructure, including open terminal protocols, missing password controls, and credential exposure.
-* **Software & Automation Development:** Developed custom TCP servers, internal security tools, and memory-reading automation bots. Competed in regional high school hackathons.
+* **Software & Automation Development:** Developed custom TCP servers, internal security tools, and memory-reading automation bots. Competed in a regional high school hackathon.
 
 ---
 
 ### Current Focus
 
-* Reversing proprietary UDP reliability layers and tracking dynamic data structures in memory.
-* Transitioning foundational security insights into legal vulnerability disclosure programs and bug bounties.
+* Studying and improving my understanding in Python, C, and x86_64 Assembly.
+* Transitioning security and penetration testing skills into legal vulnerability disclosure programs (VDP's) and bug bounties.
